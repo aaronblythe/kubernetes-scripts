@@ -1,0 +1,7 @@
+*.json
+*.pem
+*.csr
+token.csv
+kube-proxy.kubeconfig
+bootstrap.kubeconfig
+
